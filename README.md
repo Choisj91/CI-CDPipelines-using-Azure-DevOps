@@ -21,3 +21,25 @@ Instruction about setting up CI/CD Pipelines using Azure DevOps
     -> Azure Artifacts
    * Demo on Azure DevOps Portal
 
+# Docker
+   * Docker Set oF Paas Products
+   * Docker Containers
+   * Containers Communicate with other containers
+   * Docker Image by Using Docker files
+   * Docker Host and Registry
+   * Azure Container Registry
+
+# AZURE REPOS
+   * Cloud Git repository hosted on Azure DevOps
+   * Connect from local Git to Azure Repos
+   * Trigger pipelines automatically
+   * Same Branch as local Git by using Cloning
+   * Visual Studio Code Integration with Git and Azure Repos 
+
+# TESTING TOOLS
+   * Unit Testing Method units of code
+   * nUnit, xUnit and MS Test
+   * Fast, isolated, repeatable, self-checking and timely
+   * xUnit .Net Testing Framework
+   * Selenium for Web Page Testing
+   * Other Tests
