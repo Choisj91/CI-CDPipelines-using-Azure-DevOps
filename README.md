@@ -49,3 +49,19 @@ Instruction about setting up CI/CD Pipelines using Azure DevOps
      - Security Vulnerability Testing
      - Performance Testing
      - Integration Testing
+
+# TYPES OF SECURITY
+   * Cloud Environment securing you
+   * Securing your data - data at Rest and data in transit
+   * Securing Azure DevOps access
+   * Perform security vulnerability checks - SonarCloud
+   * Use Secret Keys and not passwords
+   * Azure Active Directory
+
+# SECURING YOUR CI/CD PIPELINES
+   * CI/CD Pipelines is your DevOps Engineer's production environment
+   * User Groups to Allow or Deny
+   * Pre-deployment conditions to request manual approval
+   * Post-deployment conditions
+   * Pre-deployment gates
+   * Post-deployment gates
