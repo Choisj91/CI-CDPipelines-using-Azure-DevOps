@@ -43,3 +43,9 @@ Instruction about setting up CI/CD Pipelines using Azure DevOps
    * xUnit .Net Testing Framework
    * Selenium for Web Page Testing
    * Other Tests
+     - Unit Testing
+     - User Interface Testing
+     - Code Quality Checks
+     - Security Vulnerability Testing
+     - Performance Testing
+     - Integration Testing
