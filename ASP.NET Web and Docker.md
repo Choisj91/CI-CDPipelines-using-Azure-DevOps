@@ -15,5 +15,6 @@
   * Commit Code locally
   * Clone branches with Azure Repos on Azure DevOps
   * Push code to Azure Repos
-  * See next step
+
+# Summary
 
